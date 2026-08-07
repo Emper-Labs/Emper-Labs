@@ -1,0 +1,15 @@
+[submodule "emper-backends"]
+	path = emper-backends
+	url = https://github.com/Emper-Labs/emper-backends.git
+[submodule "emper-modules"]
+	path = emper-modules
+	url = https://github.com/Emper-Labs/emper-modules.git
+[submodule "emper-samples"]
+	path = emper-samples
+	url = https://github.com/Emper-Labs/emper-samples.git
+[submodule "emper-docs"]
+	path = emper-docs
+	url = https://github.com/Emper-Labs/emper-docs.git
+[submodule "emper-engine"]
+	path = emper-engine
+	url = https://github.com/Emper-Labs/emper-engine.git
