@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(emper-engine)
+add_subdirectory(emper-modules)
+add_subdirectory(emper-backends)
 add_subdirectory(emper-samples)
